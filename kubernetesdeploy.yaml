@@ -16,7 +16,7 @@ spec:
     spec:
       containers:
       - name: health-care-container
-        image: krushjagdale/health-care
+        image: anjalik714/health-care
         ports:
         - containerPort: 8082
 ---
